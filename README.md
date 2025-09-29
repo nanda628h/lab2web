@@ -62,7 +62,10 @@ nav a {
 
 ## Screenshots
 
-(Sertakan hasil screenshot setiap percobaan)
+<img width="785" height="442" alt="image" src="https://github.com/user-attachments/assets/e33506bf-21bd-4256-b35f-ced18b3ff5ea" />
+
+<img width="1552" height="556" alt="image" src="https://github.com/user-attachments/assets/b8be5c4e-bcf2-406f-aa93-44cdd2a99ab2" />
+
 
 ## Kesimpulan
 
